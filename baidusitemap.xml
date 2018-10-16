@@ -2,24 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     
-    
-    
-    
-    
   <url>
-    <loc>https://othercoding.github.io/2018/09/26/hello-hexo/</loc>
-    <lastmod>2018-09-26T02:41:09.086Z</lastmod>
+    <loc>https://othercoding.github.io/2018/10/16/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83-Finchley%E7%89%88%E6%9C%AC/</loc>
+    <lastmod>2018-10-16T09:34:02.647Z</lastmod>
     <data>
         <display>
-        <title>hello, hexo</title>
-        <pubTime>2018-09-26T02:41:09.000Z</pubTime>
+        <title>springCloud Eureka注册中心(Finchley版本)</title>
+        <pubTime>2018-10-16T09:31:02.000Z</pubTime>
         
+        <tag>springCloud </tag>
+         
          
            
         </display>
     </data>
     </url>
 
+    
+    
+    
+    
     
   <url>
     <loc>https://othercoding.github.io/2018/09/25/hello-world/</loc>
