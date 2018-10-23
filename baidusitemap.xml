@@ -3,38 +3,16 @@
 
     
   <url>
-    <loc>https://othercoding.github.io/2018/10/23/Eureka%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E8%80%85-Feign-Finchley%E7%89%88%E6%9C%AC/</loc>
-    <lastmod>2018-10-23T13:32:44.672Z</lastmod>
+    <loc>https://othercoding.github.io/2018/10/16/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83-Finchley%E7%89%88%E6%9C%AC/</loc>
+    <lastmod>2018-10-23T13:36:44.541Z</lastmod>
     <data>
         <display>
-        <title>springCloud Eureka服务消费者-Feign(Finchley版本)</title>
-        <pubTime>2018-10-23T13:13:40.000Z</pubTime>
+        <title>springCloud Eureka注册中心(Finchley版本)</title>
+        <pubTime>2018-10-16T09:31:02.000Z</pubTime>
         
         <tag>springCloud </tag>
          
-        <tag>Feign </tag>
-         
-         
-           
-             
-              <breadCrumb title="springCloud" url="https://othercoding.github.io/categories/springCloud/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://othercoding.github.io/2018/10/16/Eureka%E6%9C%8D%E5%8A%A1%E6%8F%90%E4%BE%9B%E8%80%85-Finchley%E7%89%88%E6%9C%AC/</loc>
-    <lastmod>2018-10-23T13:32:39.006Z</lastmod>
-    <data>
-        <display>
-        <title>springCloud Eureka服务提供者(Finchley版本)</title>
-        <pubTime>2018-10-16T09:46:40.000Z</pubTime>
-        
-        <tag>springCloud </tag>
-         
-        <tag>produce </tag>
+        <tag>Discovery </tag>
          
          
            
@@ -48,7 +26,7 @@
     
   <url>
     <loc>https://othercoding.github.io/2018/10/16/Eureka%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E8%80%85-Ribbon-Finchley%E7%89%88%E6%9C%AC/</loc>
-    <lastmod>2018-10-23T13:20:04.107Z</lastmod>
+    <lastmod>2018-10-23T13:36:23.797Z</lastmod>
     <data>
         <display>
         <title>springCloud Eureka服务消费者-Ribbon(Finchley版本)</title>
@@ -69,16 +47,38 @@
 
     
   <url>
-    <loc>https://othercoding.github.io/2018/10/16/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83-Finchley%E7%89%88%E6%9C%AC/</loc>
-    <lastmod>2018-10-23T13:19:10.590Z</lastmod>
+    <loc>https://othercoding.github.io/2018/10/16/Eureka%E6%9C%8D%E5%8A%A1%E6%8F%90%E4%BE%9B%E8%80%85-Finchley%E7%89%88%E6%9C%AC/</loc>
+    <lastmod>2018-10-23T13:34:38.621Z</lastmod>
     <data>
         <display>
-        <title>springCloud Eureka注册中心(Finchley版本)</title>
-        <pubTime>2018-10-16T09:31:02.000Z</pubTime>
+        <title>springCloud Eureka服务提供者(Finchley版本)</title>
+        <pubTime>2018-10-16T09:46:40.000Z</pubTime>
         
         <tag>springCloud </tag>
          
-        <tag>Discovery </tag>
+        <tag>produce </tag>
+         
+         
+           
+             
+              <breadCrumb title="springCloud" url="https://othercoding.github.io/categories/springCloud/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://othercoding.github.io/2018/10/23/Eureka%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E8%80%85-Feign-Finchley%E7%89%88%E6%9C%AC/</loc>
+    <lastmod>2018-10-23T13:34:28.055Z</lastmod>
+    <data>
+        <display>
+        <title>springCloud Eureka服务消费者-Feign(Finchley版本)</title>
+        <pubTime>2018-10-23T13:13:40.000Z</pubTime>
+        
+        <tag>springCloud </tag>
+         
+        <tag>Feign </tag>
          
          
            
