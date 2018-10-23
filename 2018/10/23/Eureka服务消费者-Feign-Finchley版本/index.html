@@ -77,22 +77,22 @@
 
 
 
-<meta name="description" content="Eureka服务消费者-Feign(Finchley)Feign简介Feign是一个声明式的伪Http客户端，它使得写Http客户端变得更简单。使用Feign，只需要创建一个接口并注解。它具有可插拔的注解特性，可使用Feign 注解和JAX-RS注解。Feign支持可插拔的编码器和解码器。Feign默认集成了Ribbon，并和Eureka结合，默认实现了负载均衡的效果。 简而言之：  Feign">
+<meta name="description" content="Feign简介Feign是一个声明式的伪Http客户端，它使得写Http客户端变得更简单。使用Feign，只需要创建一个接口并注解。它具有可插拔的注解特性，可使用Feign 注解和JAX-RS注解。Feign支持可插拔的编码器和解码器。Feign默认集成了Ribbon，并和Eureka结合，默认实现了负载均衡的效果。 简而言之：  Feign 采用的是基于接口的注解 Feign 整合了ribbo">
 <meta name="keywords" content="springCloud,Feign">
 <meta property="og:type" content="article">
 <meta property="og:title" content="springCloud Eureka服务消费者-Feign(Finchley版本)">
 <meta property="og:url" content="https://othercoding.github.io/2018/10/23/Eureka服务消费者-Feign-Finchley版本/index.html">
 <meta property="og:site_name" content="otherCoding的博客">
-<meta property="og:description" content="Eureka服务消费者-Feign(Finchley)Feign简介Feign是一个声明式的伪Http客户端，它使得写Http客户端变得更简单。使用Feign，只需要创建一个接口并注解。它具有可插拔的注解特性，可使用Feign 注解和JAX-RS注解。Feign支持可插拔的编码器和解码器。Feign默认集成了Ribbon，并和Eureka结合，默认实现了负载均衡的效果。 简而言之：  Feign">
+<meta property="og:description" content="Feign简介Feign是一个声明式的伪Http客户端，它使得写Http客户端变得更简单。使用Feign，只需要创建一个接口并注解。它具有可插拔的注解特性，可使用Feign 注解和JAX-RS注解。Feign支持可插拔的编码器和解码器。Feign默认集成了Ribbon，并和Eureka结合，默认实现了负载均衡的效果。 简而言之：  Feign 采用的是基于接口的注解 Feign 整合了ribbo">
 <meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="http://pggsam2nw.bkt.clouddn.com/suo-70b1c816e87.jpg">
 <meta property="og:image" content="http://pggr87txr.bkt.clouddn.com/Eureka-server-home-2.png">
 <meta property="og:image" content="http://pggr87txr.bkt.clouddn.com/feign-test.png">
-<meta property="og:image" content="http://pggsam2nw.bkt.clouddn.com/suo-70b1c816e87.jpg">
-<meta property="og:updated_time" content="2018-10-23T13:19:10.530Z">
+<meta property="og:updated_time" content="2018-10-23T13:32:44.672Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="springCloud Eureka服务消费者-Feign(Finchley版本)">
-<meta name="twitter:description" content="Eureka服务消费者-Feign(Finchley)Feign简介Feign是一个声明式的伪Http客户端，它使得写Http客户端变得更简单。使用Feign，只需要创建一个接口并注解。它具有可插拔的注解特性，可使用Feign 注解和JAX-RS注解。Feign支持可插拔的编码器和解码器。Feign默认集成了Ribbon，并和Eureka结合，默认实现了负载均衡的效果。 简而言之：  Feign">
-<meta name="twitter:image" content="http://pggr87txr.bkt.clouddn.com/Eureka-server-home-2.png">
+<meta name="twitter:description" content="Feign简介Feign是一个声明式的伪Http客户端，它使得写Http客户端变得更简单。使用Feign，只需要创建一个接口并注解。它具有可插拔的注解特性，可使用Feign 注解和JAX-RS注解。Feign支持可插拔的编码器和解码器。Feign默认集成了Ribbon，并和Eureka结合，默认实现了负载均衡的效果。 简而言之：  Feign 采用的是基于接口的注解 Feign 整合了ribbo">
+<meta name="twitter:image" content="http://pggsam2nw.bkt.clouddn.com/suo-70b1c816e87.jpg">
 
 
 
@@ -348,7 +348,7 @@
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  928
+                  920
                 </span>
               
 
@@ -385,7 +385,8 @@
       
 
       
-        <h1 id="Eureka服务消费者-Feign-Finchley"><a href="#Eureka服务消费者-Feign-Finchley" class="headerlink" title="Eureka服务消费者-Feign(Finchley)"></a>Eureka服务消费者-Feign(Finchley)</h1><h2 id="Feign简介"><a href="#Feign简介" class="headerlink" title="Feign简介"></a>Feign简介</h2><p>Feign是一个声明式的伪Http客户端，它使得写Http客户端变得更简单。使用Feign，只需要创建一个接口并注解。它具有可插拔的注解特性，可使用Feign 注解和JAX-RS注解。Feign支持可插拔的编码器和解码器。Feign默认集成了Ribbon，并和Eureka结合，默认实现了负载均衡的效果。</p>
+        <p><img src="http://pggsam2nw.bkt.clouddn.com/suo-70b1c816e87.jpg" width="1000" align="center"></p>
+<h2 id="Feign简介"><a href="#Feign简介" class="headerlink" title="Feign简介"></a>Feign简介</h2><p>Feign是一个声明式的伪Http客户端，它使得写Http客户端变得更简单。使用Feign，只需要创建一个接口并注解。它具有可插拔的注解特性，可使用Feign 注解和JAX-RS注解。Feign支持可插拔的编码器和解码器。Feign默认集成了Ribbon，并和Eureka结合，默认实现了负载均衡的效果。</p>
 <p>简而言之：</p>
 <ul>
 <li>Feign 采用的是基于接口的注解</li>
@@ -422,7 +423,6 @@
 <h4 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h4><p>访问<a href="http://localhost:1002/feign" target="_blank" rel="noopener">http://localhost:1002/feign</a>, 返回<strong>hi I am clouc-producer, i am from port:9000</strong>, 说明调用接口正常<br>多次访问同样和Ribbon示例一样实现了负载均衡。</p>
 <p><img src="http://pggr87txr.bkt.clouddn.com/feign-test.png" alt="Feign测试结果"></p>
 <h4 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h4><p>妹子也走了,拜拜</p>
-<p><img src="http://pggsam2nw.bkt.clouddn.com/suo-70b1c816e87.jpg" width="1000" align="center"></p>
 
       
     </div>
@@ -613,7 +613,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Eureka服务消费者-Feign-Finchley"><span class="nav-number">1.</span> <span class="nav-text">Eureka服务消费者-Feign(Finchley)</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Feign简介"><span class="nav-number">1.1.</span> <span class="nav-text">Feign简介</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#准备工作"><span class="nav-number">1.2.</span> <span class="nav-text">准备工作</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#代码示例"><span class="nav-number">1.3.</span> <span class="nav-text">代码示例</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#POM-XML"><span class="nav-number">1.3.1.</span> <span class="nav-text">POM.XML</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#application-yml"><span class="nav-number">1.3.2.</span> <span class="nav-text">application.yml</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#启动类"><span class="nav-number">1.3.3.</span> <span class="nav-text">启动类</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#编写调用接口"><span class="nav-number">1.3.4.</span> <span class="nav-text">编写调用接口</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#消费hi服务"><span class="nav-number">1.3.5.</span> <span class="nav-text">消费hi服务</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#测试"><span class="nav-number">1.3.5.1.</span> <span class="nav-text">测试</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#结语"><span class="nav-number">1.3.5.2.</span> <span class="nav-text">结语</span></a></li></ol></li></ol></li></ol></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Feign简介"><span class="nav-number">1.</span> <span class="nav-text">Feign简介</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#准备工作"><span class="nav-number">2.</span> <span class="nav-text">准备工作</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#代码示例"><span class="nav-number">3.</span> <span class="nav-text">代码示例</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#POM-XML"><span class="nav-number">3.1.</span> <span class="nav-text">POM.XML</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#application-yml"><span class="nav-number">3.2.</span> <span class="nav-text">application.yml</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#启动类"><span class="nav-number">3.3.</span> <span class="nav-text">启动类</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#编写调用接口"><span class="nav-number">3.4.</span> <span class="nav-text">编写调用接口</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#消费hi服务"><span class="nav-number">3.5.</span> <span class="nav-text">消费hi服务</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#测试"><span class="nav-number">3.5.1.</span> <span class="nav-text">测试</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#结语"><span class="nav-number">3.5.2.</span> <span class="nav-text">结语</span></a></li></ol></li></ol></li></ol></div>
             
 
           </div>
