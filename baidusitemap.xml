@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://othercoding.github.io/posts/proxyPattern.html</loc>
+    <lastmod>2019-09-27T14:55:11.117Z</lastmod>
+  </url>  <url>
     <loc>https://othercoding.github.io/posts/e3bfc46b.html</loc>
     <lastmod>2019-08-20T14:18:13.179Z</lastmod>
   </url>  <url>
@@ -25,10 +28,10 @@
     <loc>https://othercoding.github.io/posts/2d33b9dubbo.html</loc>
     <lastmod>2019-07-09T15:19:14.777Z</lastmod>
   </url>  <url>
-    <loc>https://othercoding.github.io/posts/4a17b156.html</loc>
+    <loc>https://othercoding.github.io/posts/4d1fe78firstPython.html</loc>
     <lastmod>2019-07-09T15:19:14.777Z</lastmod>
   </url>  <url>
-    <loc>https://othercoding.github.io/posts/4d1fe78firstPython.html</loc>
+    <loc>https://othercoding.github.io/posts/4a17b156.html</loc>
     <lastmod>2019-07-09T15:19:14.777Z</lastmod>
   </url>
 </urlset>
