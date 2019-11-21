@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://othercoding.github.io/posts/RocketMQ-sourceCode-03.html</loc>
+    
+    <lastmod>2019-11-21T15:24:27.756Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://othercoding.github.io/posts/RocketMQ-sourceCode-01.html</loc>
+    
+    <lastmod>2019-11-21T15:02:29.553Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://othercoding.github.io/about/index.html</loc>
     
     <lastmod>2019-09-27T15:16:43.404Z</lastmod>
@@ -79,7 +93,7 @@
   </url>
   
   <url>
-    <loc>https://othercoding.github.io/categories/index.html</loc>
+    <loc>https://othercoding.github.io/archives/index.html</loc>
     
     <lastmod>2019-07-09T15:19:14.777Z</lastmod>
     
@@ -93,7 +107,7 @@
   </url>
   
   <url>
-    <loc>https://othercoding.github.io/archives/index.html</loc>
+    <loc>https://othercoding.github.io/categories/index.html</loc>
     
     <lastmod>2019-07-09T15:19:14.777Z</lastmod>
     
